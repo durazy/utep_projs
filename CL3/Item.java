@@ -1,3 +1,7 @@
+/**
+* @author durazy
+**/
+
 public class Item {
 
 	// attributes
