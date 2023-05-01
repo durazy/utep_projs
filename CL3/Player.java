@@ -1,3 +1,8 @@
+/**
+* Part of this class was provided by TAs (constructors and method headers)
+* Most of methods were completed by @durazy
+**/
+
 import java.util.Random;
 import java.util.Scanner;
 
