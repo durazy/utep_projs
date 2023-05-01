@@ -1,6 +1,6 @@
 /**
-* Part of this class was provided by TAs (constructors and method headers)
-* Most of methods were completed by @durazy
+* Part of this class was provided by TAs (constructors, method headers, some fields)
+* The rest was completed by @durazy
 **/
 
 import java.util.Random;
