@@ -1,4 +1,7 @@
-
+/**
+* Part of this class was provided by TAs (constructors and method headers)
+* Most of methods were completed by @durazy
+**/
 
 public class LinkedList {
 	// attributes
