@@ -1,1 +1,1 @@
-# utep_projs
+# Projects/Assignments provided as UTEP coursework
