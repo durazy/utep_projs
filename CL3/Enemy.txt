@@ -1,0 +1,6 @@
+VenomPlant 1 2 heart
+Goblin 3 1 heart
+Snake 4 2 heart
+CorruptedKnight 10 3 sword
+DarkMagician 15 4 shield
+DarkKing 20 5 relic

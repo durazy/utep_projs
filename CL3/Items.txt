@@ -1,0 +1,10 @@
+heart-heal-0
+heart-upgrade-7
+bow-weapon-3
+bombs-weapon-8
+cane-weapon-4
+potion-usable-0
+smokeBomb-usable-0
+fireWand-sWeapon-4
+iceWand-sWeapon-9
+elecWand-sWeapon-6
