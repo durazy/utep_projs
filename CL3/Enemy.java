@@ -1,3 +1,7 @@
+/**
+* Provided by TAs
+**/
+
 public class Enemy {
     private String name;
     private int healthPoints;
