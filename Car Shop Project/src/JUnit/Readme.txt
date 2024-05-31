@@ -1,0 +1,1 @@
+Junit files need to be in the same folder as the rest of the source code
